@@ -153,7 +153,6 @@ class SignUpFragment : Fragment() {
                 binding.SignUpBtn.isEnabled = CheckUser == true && CheckEmail == true && CheckContact == true && CheckPassword == true
             }
         })
-
         //Contact......
 
         //Contact......
